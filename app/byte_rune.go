@@ -36,7 +36,6 @@ func main() {
 	}
 	fmt.Println("\n=======")
 
-
 	//修改字符串
 	s1 := "big"
 	byteStr := []byte(s1)
