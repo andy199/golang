@@ -4,6 +4,7 @@ package main
 
 import "fmt"
 
+
 func main() {
 	fmt.Print("hi", "A")
 	fmt.Println( "hi", "B")
