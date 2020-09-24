@@ -49,7 +49,7 @@ func main() {
 
 	var y  = 5.9 / 8
 	fmt.Printf("y`s type is %T and value is %v", y, y)
-	fmt.Println("------")
+	fmt.Println("-------")
 
 	// iota是golang语言的常量计算器，只能在常量的表达式中使用
 	const (
