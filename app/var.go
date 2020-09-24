@@ -46,6 +46,7 @@ func main()  {
 	//简洁方式声明多个变量
 	names, agea := "tom", 30
 	fmt.Println("my name is", names, "ags is", agea)
+
 	
 	a, b := 20, 30
 	fmt.Println("a is", a, "b, is", b)
