@@ -47,7 +47,7 @@ func main()  {
 	names, agea := "tom", 30
 	fmt.Println("my name is", names, "ags is", agea)
 
-	
+
 	a, b := 20, 30
 	fmt.Println("a is", a, "b, is", b)
 	b, c := 40, 50
