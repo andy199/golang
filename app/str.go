@@ -4,7 +4,6 @@ import (
 	"fmt"
 	"strings"
 )
-
 //字符串类型
 
 func main()  {
