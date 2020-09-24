@@ -22,6 +22,7 @@ func main() {
 	var str1  = "你好go"
 	fmt.Println(len(str1))//8字节
 
+
 	//定义一个字符 字符的值是汉字
 	//golang 中汉字使用的是utf-8编码 编码后的值就是int类型
 	var c  = '国'
