@@ -1,5 +1,5 @@
 package main
-
+//6
 import (
 	"fmt"
 	"strings"
