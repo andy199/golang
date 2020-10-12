@@ -1,4 +1,5 @@
 package main
+//7
 //字符
 //go语言的字符有两种
 	//uint8类型 或者叫byte型，代表ASCLL码的一个字符，rune类型，代表一个UTF-8字符
