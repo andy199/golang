@@ -17,6 +17,7 @@ if 表达式1 {
  */
 //1.最简单的if语句
 func main()  {
+	//1.最简单的if语句
 	flag := true
 	if flag {
 		fmt.Println("flag=true")
