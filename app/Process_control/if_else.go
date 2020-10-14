@@ -3,7 +3,6 @@ package main
 //流程控制
 import "fmt"
 
-
 //流程控制有if和for，而switch和goto主要是为了简化代码、降低重复代码而生的结构，属于扩展类的流程控制。
 /*
 if else(分支结构)
